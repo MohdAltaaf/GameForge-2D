@@ -1,20 +1,31 @@
+# Apool
 
-Apool
+A puzzle-platformer where you play as a cute little cube traversing mind-bending puzzles. The twist? Some puzzles can't be solved alone—so you have to use yourself!
 
-A game where you you play as a cute little cube, traversing puzzles but the twist is, that some puzzles cant be solved alone. So for help you use yourself?? Yes!
+## How to Play
 
-How to Play
+The controls are simple and beginner-friendly:
 
-So the controls are basic, very beginner friendly my cat can play this too. A/D to move left/right and space to jump.
+A / D: Move Left / Right
 
-Press E to activate the loop, you teleport back to your original position but a shadow of you stays where you were. Use that shadow wisely to traverse places that wouldnt have been posible alone.(technically youre still alone but i think you get it.)
+Space: Jump
 
-Press R to restart the whole level.
+E: Activate Loop — Teleports you back to your starting position, leaving behind a shadow clone of your former self. Use your shadow clone strategically to solve impossible obstacles!
 
-How it was made:
+R: Restart the level
 
-Made using Unity, and the art was done by yours truly, in MS paint lol. I also made the music by coding it in strudel!
+## Built With
 
-Consider this a demo theres lots much to come!
+Engine: Unity
 
-Made by - Mohd Altaaf && Ishant Bhaskar
+Art: Created in MS Paint
+
+Music: Coded using Strudel
+
+## Status
+
+Note: Consider this a demo! There is plenty more content to come.
+
+Credits
+
+Made by Mohd Altaaf & Ishant Bhaskar
